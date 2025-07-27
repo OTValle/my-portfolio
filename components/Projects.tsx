@@ -22,7 +22,7 @@ export default function Projects() {
         "A productivity app for managing daily tasks and projects. Includes features like task creation, completion tracking, priority levels, and local storage persistence.",
       image: "https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=600&h=400&fit=crop",
       technologies: ["React.js", "Tailwind CSS", "Local Storage", "JavaScript"],
-      liveLink: "#",
+      liveLink: "https://owelvalle.vercel.app",
       githubLink: "#",
     },
   ]
