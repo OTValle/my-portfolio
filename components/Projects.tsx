@@ -13,8 +13,8 @@ export default function Projects() {
         "A modern, responsive portfolio website built with React.js and Tailwind CSS. Features smooth scrolling navigation, dark mode, and clean minimalist aesthetics.",
       image: "https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?w=600&h=400&fit=crop",
       technologies: ["React.js", "Tailwind CSS", "JavaScript", "HTML/CSS"],
-      liveLink: "",
-      githubLink: "#",
+      liveLink: "https://owelvalle.vercel.app",
+      githubLink: "https://github.com/OTValle/my-portfolio",
     },
     {
       title: "Task Tracker Application",
