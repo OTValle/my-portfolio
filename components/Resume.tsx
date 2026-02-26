@@ -2,7 +2,7 @@ import { Download, FileText } from "lucide-react";
 
 export default function Resume() {
   // Best practice: URL-encode the filename to handle spaces and special characters.
-  const pdfFileName = "CV Valle, Owel.pdf";
+  const pdfFileName = "CV_Valle_Owel_T.pdf";
   const pdfUrl = `/${encodeURIComponent(pdfFileName)}`;
 
   return (
